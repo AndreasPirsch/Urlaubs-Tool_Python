@@ -32,7 +32,7 @@ o	Pandas
 
 python main.py
 
-## 4. Verwendung:##
+## 4. Verwendung:
 
 Neue Urlaubsanträge hinzufügen:
 
@@ -52,7 +52,7 @@ Konfliktprüfung:
 
 •	Das Tool prüft automatisch, ob es Überschneidungen mit bestehenden genehmigten Urlaubsanträgen gibt. Falls Konflikte erkannt werden, wird eine Warnung angezeigt.
 
-## 5. Funktionsweise:##
+## 5. Funktionsweise:
 
 •	CSV Laden:
 
@@ -72,7 +72,7 @@ Wenn ein neuer Antrag hinzugefügt wird, prüft das Tool, ob er sich mit einem b
 
  ![grafik](https://github.com/user-attachments/assets/d673b3bb-ae00-47dc-a2ee-2aaf9aff4483)
 
-## 6. Zukunft und Erweiterungen:##
+## 6. Zukunft und Erweiterungen:
 
 Erweiterungen:
 
