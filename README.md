@@ -1,8 +1,8 @@
 # Urlaubsantrags-Tool – Übersicht & technische Umsetzung
-**1. Use-Case:**
+##1. Use-Case:
 Das Urlaubsantrags-Tool ermöglicht es, Urlaubsanträge in einer CSV-Datei zu verwalten, Konflikte zwischen Urlaubszeiten zu prüfen und neue Anträge hinzuzufügen. Es bietet eine einfache Möglichkeit zur Verwaltung von Urlaubsanträgen für kleine Teams und Unternehmen und hilft dabei, Überschneidungen von genehmigten Urlaubsanträgen zu erkennen.
 
-**2. Technologien und Tools:**
+##2. Technologien und Tools:
 
 •	Python 3.x: Die Hauptprogrammiersprache für die Erstellung des Tools.
 
@@ -10,7 +10,7 @@ Das Urlaubsantrags-Tool ermöglicht es, Urlaubsanträge in einer CSV-Datei zu ve
 
 •	datetime: Zur Arbeit mit Datumswerten und deren Validierung.
 
-**3. Installation und Setup:**
+##3. Installation und Setup:
 
 Voraussetzungen:
 
@@ -32,7 +32,7 @@ o	Pandas
 
 python main.py
 
-**4. Verwendung:**
+##4. Verwendung:
 
 Neue Urlaubsanträge hinzufügen:
 
@@ -52,7 +52,7 @@ Konfliktprüfung:
 
 •	Das Tool prüft automatisch, ob es Überschneidungen mit bestehenden genehmigten Urlaubsanträgen gibt. Falls Konflikte erkannt werden, wird eine Warnung angezeigt.
 
-**5. Funktionsweise:**
+##5. Funktionsweise:
 
 •	CSV Laden:
 
@@ -72,7 +72,7 @@ Wenn ein neuer Antrag hinzugefügt wird, prüft das Tool, ob er sich mit einem b
 
  ![grafik](https://github.com/user-attachments/assets/d673b3bb-ae00-47dc-a2ee-2aaf9aff4483)
 
-**6. Zukunft und Erweiterungen:**
+##6. Zukunft und Erweiterungen:
 
 Erweiterungen:
 
